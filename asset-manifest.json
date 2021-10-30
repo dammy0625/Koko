@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/koko/static/css/main.a5461233.chunk.css",
+    "main.js": "/koko/static/js/main.1908b6c9.chunk.js",
+    "main.js.map": "/koko/static/js/main.1908b6c9.chunk.js.map",
+    "runtime-main.js": "/koko/static/js/runtime-main.cd8ae7ef.js",
+    "runtime-main.js.map": "/koko/static/js/runtime-main.cd8ae7ef.js.map",
+    "static/js/2.47e4ef23.chunk.js": "/koko/static/js/2.47e4ef23.chunk.js",
+    "static/js/2.47e4ef23.chunk.js.map": "/koko/static/js/2.47e4ef23.chunk.js.map",
+    "static/js/3.0b7e8925.chunk.js": "/koko/static/js/3.0b7e8925.chunk.js",
+    "static/js/3.0b7e8925.chunk.js.map": "/koko/static/js/3.0b7e8925.chunk.js.map",
+    "index.html": "/koko/index.html",
+    "static/css/main.a5461233.chunk.css.map": "/koko/static/css/main.a5461233.chunk.css.map",
+    "static/js/2.47e4ef23.chunk.js.LICENSE.txt": "/koko/static/js/2.47e4ef23.chunk.js.LICENSE.txt",
+    "static/media/angel.b2b84b96.jpg": "/koko/static/media/angel.b2b84b96.jpg",
+    "static/media/black-girl-holding-her-head.ed63e09f.png": "/koko/static/media/black-girl-holding-her-head.ed63e09f.png",
+    "static/media/black-man-in-bed-462x462.27be9de4.jpg": "/koko/static/media/black-man-in-bed-462x462.27be9de4.jpg",
+    "static/media/ebuka.71189d81.jpg": "/koko/static/media/ebuka.71189d81.jpg",
+    "static/media/fork.0107dd51.jpg": "/koko/static/media/fork.0107dd51.jpg",
+    "static/media/hug.885e9311.jpg": "/koko/static/media/hug.885e9311.jpg",
+    "static/media/patrick.6eea86b0.png": "/koko/static/media/patrick.6eea86b0.png",
+    "static/media/rename.2098d3e3.jpg": "/koko/static/media/rename.2098d3e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd8ae7ef.js",
+    "static/js/2.47e4ef23.chunk.js",
+    "static/css/main.a5461233.chunk.css",
+    "static/js/main.1908b6c9.chunk.js"
+  ]
+}
